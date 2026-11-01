@@ -1,0 +1,6 @@
+xarray>=2024.1
+netCDF4>=1.6
+matplotlib>=3.8
+pandas>=2.0
+geopandas>=0.14
+rioxarray>=0.15
