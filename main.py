@@ -239,7 +239,7 @@ def create_map(args: argparse.Namespace) -> None:
     print (f"Saving map to: {output_path}")
 
     fig.savefig(
-        "c:\\era\\test1.png",
+        "c:\\era\\map.png",
         dpi=300,
         bbox_inches="tight"
     )
